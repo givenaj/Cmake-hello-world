@@ -1,0 +1,3 @@
+/home/ajgiven/Documents/learning-files/cmake_hello_world/Cmake-hello-world/build/CMakeFiles/Hello-World.dir
+/home/ajgiven/Documents/learning-files/cmake_hello_world/Cmake-hello-world/build/CMakeFiles/edit_cache.dir
+/home/ajgiven/Documents/learning-files/cmake_hello_world/Cmake-hello-world/build/CMakeFiles/rebuild_cache.dir
